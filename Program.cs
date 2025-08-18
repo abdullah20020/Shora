@@ -1,3 +1,6 @@
+using InfrastructureLayer;
+using MediatR;
+using Microsoft.EntityFrameworkCore;
 
 namespace shora
 {
@@ -10,6 +13,10 @@ namespace shora
             // Add services to the container.
 
             builder.Services.AddControllers();
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+            builder.Services.AddDbContext<ShoraDbContext>(options =>
+            options.UseSqlServer(connectionString));
+            builder.Services.AddMediatR(typeof(Program));
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
 
