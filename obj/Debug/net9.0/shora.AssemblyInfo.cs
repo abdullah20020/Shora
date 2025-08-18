@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6db49ed259e95828d8009f0d390d82f4772eef7")]
 [assembly: System.Reflection.AssemblyProductAttribute("shora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
