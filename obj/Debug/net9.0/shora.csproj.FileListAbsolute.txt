@@ -13,7 +13,6 @@ C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\shora.GeneratedMSBuildEdito
 C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\shora.AssemblyInfoInputs.cache
 C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\shora.AssemblyInfo.cs
 C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\shora.csproj.CoreCompileInputs.cache
-C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\shora.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\shora.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\shora.sourcelink.json
 C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\scopedcss\bundle\shora.styles.css
@@ -174,3 +173,13 @@ C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.W
 C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\MediatR.dll
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\ApplicationLayer.dll
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\ApplicationLayer.pdb
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\ABYUSIF\source\repos\shora\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ABYUSIF\source\repos\shora\obj\Debug\net9.0\shora.MvcApplicationPartsAssemblyInfo.cs

@@ -1,6 +1,13 @@
+using ApplicationLayer.Features.Commands;
+using ApplicationLayer.Features.Commend;
+using DomianLayar.contract;
+using DomianLayar.Entities;
 using InfrastructureLayer;
+using InfrastructureLayer.GenaricRepostory;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
 
 namespace shora
 {
@@ -16,12 +23,22 @@ namespace shora
             var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
             builder.Services.AddDbContext<ShoraDbContext>(options =>
             options.UseSqlServer(connectionString));
-            builder.Services.AddMediatR(typeof(Program));
+            builder.Services.AddAutoMapper(typeof(Program));
+            builder.Services.AddScoped(typeof(IGenaricRepostry<>), typeof(GenaricRepostry<>));
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
+            builder.Services.AddSwaggerGen();      
+            builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
 
-            var app = builder.Build();
+            builder.Services.AddScoped<IRequestHandler<CreateCommand<BaseClass>, BaseClass>, CreateCommandHandler<BaseClass>>();
+      var app = builder.Build();
 
+
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {

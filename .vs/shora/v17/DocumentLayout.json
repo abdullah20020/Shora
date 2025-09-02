@@ -3,20 +3,137 @@
   "WorkspaceRootPath": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\spacification\\basespacfication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\controllers\\casescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:controllers\\casescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\commend\\createcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\commend\\deletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C80FD-470B-4B05-9647-9DFFE833F840}|..\\InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\abyusif\\source\\repos\\infrastructurelayer\\genaricrepostory\\genaricrepostry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\contract\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\contract\\iqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\contract\\igenaricrepostry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\query\\getbyidwithspechandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\query\\getbyidwithspecquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\query\\getallwithspechandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\query\\getallwithspecquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\query\\getallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\query\\getbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\query\\getallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\query\\getbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\commend\\deletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\commend\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\commend\\updatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\commend\\createcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\extintions\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:extintions\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\dtos\\cases\\getcasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:dtos\\cases\\getcasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\dtos\\cases\\casecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:dtos\\cases\\casecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\dtos\\cases\\caseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:dtos\\cases\\caseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\dtos\\cases\\caselistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:dtos\\cases\\caselistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\entities\\case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\contract\\ispacfiaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\contract\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\shora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:shora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\Ispacfiaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\domianlayar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\Migrations\\20250818112639_sas4110.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\spacification\\spacificationevalator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\shora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:shora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\enums\\case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|c:\\users\\abyusif\\source\\repos\\shora\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B21C82E-1921-4A04-9669-4593F84698CB}|shora.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139F392-6F26-4FE0-A317-27FDB11FB172}|..\\DomianLayar\\DomianLayar.csproj|c:\\users\\abyusif\\source\\repos\\domianlayar\\enums\\casestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4144F83-53ED-494D-BE89-1E4F2E93CAD2}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\abyusif\\source\\repos\\applicationlayer\\features\\spacification\\basespacfication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C80FD-470B-4B05-9647-9DFFE833F840}|..\\InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\abyusif\\source\\repos\\infrastructurelayer\\migrations\\20250818112639_sas4110.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C80FD-470B-4B05-9647-9DFFE833F840}|..\\InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\abyusif\\source\\repos\\infrastructurelayer\\migrations\\20250818200355_sisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\\u064DShoraDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +143,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 32,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,46 +167,514 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "\u064DShoraDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\\u064DShoraDbContext.cs",
+              "RelativeDocumentMoniker": "..\\InfrastructureLayer\\\u064DShoraDbContext.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\\u064DShoraDbContext.cs",
+              "RelativeToolTip": "..\\InfrastructureLayer\\\u064DShoraDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:58:00.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetByIdWithSpecHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetByIdWithSpecHandler.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Query\\GetByIdWithSpecHandler.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetByIdWithSpecHandler.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Query\\GetByIdWithSpecHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:55:52.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetByIdWithSpecQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetByIdWithSpecQuery.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Query\\GetByIdWithSpecQuery.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetByIdWithSpecQuery.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Query\\GetByIdWithSpecQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:55:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllWithSpecHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetAllWithSpecHandler.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Query\\GetAllWithSpecHandler.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetAllWithSpecHandler.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Query\\GetAllWithSpecHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:54:45.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllWithSpecQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetAllWithSpecQuery.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Query\\GetAllWithSpecQuery.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetAllWithSpecQuery.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Query\\GetAllWithSpecQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:53:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetAllQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Query\\GetAllQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetAllQueryHandler.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Query\\GetAllQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:39:52.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Query\\GetByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetByIdQueryHandler.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Query\\GetByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:39:30.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetAllQuery.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Query\\GetAllQuery.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetAllQuery.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Query\\GetAllQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:39:09.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Query\\GetByIdQuery.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Query\\GetByIdQuery.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Query\\GetByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:38:22.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\DeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Commend\\DeleteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\DeleteCommandHandler.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Commend\\DeleteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:35:10.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\DeleteCommand.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Commend\\DeleteCommand.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\DeleteCommand.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Commend\\DeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:34:35.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\UpdateCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Commend\\UpdateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\UpdateCommandHandler.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Commend\\UpdateCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:33:02.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\UpdateCommand.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Commend\\UpdateCommand.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\UpdateCommand.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Commend\\UpdateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:32:12.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\IQueryRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\contract\\IQueryRepository.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\IQueryRepository.cs",
+              "RelativeToolTip": "..\\DomianLayar\\contract\\IQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:47:53.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\ICommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\contract\\ICommandRepository.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\ICommandRepository.cs",
+              "RelativeToolTip": "..\\DomianLayar\\contract\\ICommandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:46:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CaseUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Dtos\\Cases\\CaseUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Cases\\CaseUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Dtos\\Cases\\CaseUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\Cases\\CaseUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:42:01.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CaseListDto.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Dtos\\Cases\\CaseListDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Cases\\CaseListDto.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Dtos\\Cases\\CaseListDto.cs",
+              "RelativeToolTip": "Dtos\\Cases\\CaseListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:41:14.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CaseCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Dtos\\Cases\\CaseCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Cases\\CaseCreateDto.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Dtos\\Cases\\CaseCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Cases\\CaseCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:40:31.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetCaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Dtos\\Cases\\GetCaseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Cases\\GetCaseDto.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Dtos\\Cases\\GetCaseDto.cs",
+              "RelativeToolTip": "Dtos\\Cases\\GetCaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:36:19.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Extintions\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Extintions\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Extintions\\MapperProfile.cs",
+              "RelativeToolTip": "Extintions\\MapperProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:25:09.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\contract\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\IAggregateRoot.cs",
+              "RelativeToolTip": "..\\DomianLayar\\contract\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:50:37.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DomianLayar.csproj",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\DomianLayar.csproj",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\DomianLayar.csproj",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\DomianLayar.csproj",
+              "RelativeToolTip": "..\\DomianLayar\\DomianLayar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T15:22:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250818200355_sisi.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\Migrations\\20250818200355_sisi.cs",
+              "RelativeDocumentMoniker": "..\\InfrastructureLayer\\Migrations\\20250818200355_sisi.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\Migrations\\20250818200355_sisi.cs",
+              "RelativeToolTip": "..\\InfrastructureLayer\\Migrations\\20250818200355_sisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:03:56.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Case.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\Entities\\Case.cs",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\Entities\\Case.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\Entities\\Case.cs",
+              "RelativeToolTip": "..\\DomianLayar\\Entities\\Case.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:59:29.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T19:55:19.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T19:55:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CasesController.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Controllers\\CasesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CasesController.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Controllers\\CasesController.cs",
+              "RelativeToolTip": "Controllers\\CasesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:49:43.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwB4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:14:07.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\CreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Commend\\CreateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\CreateCommandHandler.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Commend\\CreateCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:10:37.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\CreateCommand.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Commend\\CreateCommand.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Commend\\CreateCommand.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Commend\\CreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:33:12.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Case.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\Enums\\Case.cs",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\Enums\\Case.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\Enums\\Case.cs",
+              "RelativeToolTip": "..\\DomianLayar\\Enums\\Case.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:30:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\Enums\\UserRole.cs",
+              "RelativeToolTip": "..\\DomianLayar\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:30:39.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CaseStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\Enums\\CaseStatus.cs",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\Enums\\CaseStatus.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\Enums\\CaseStatus.cs",
+              "RelativeToolTip": "..\\DomianLayar\\Enums\\CaseStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:27:00.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "spacificationEvalator.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Spacification\\spacificationEvalator.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Spacification\\spacificationEvalator.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Spacification\\spacificationEvalator.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Features\\Spacification\\spacificationEvalator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:10:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenaricRepostry.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\GenaricRepostory\\GenaricRepostry.cs",
+              "RelativeDocumentMoniker": "..\\InfrastructureLayer\\GenaricRepostory\\GenaricRepostry.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\GenaricRepostory\\GenaricRepostry.cs",
+              "RelativeToolTip": "..\\InfrastructureLayer\\GenaricRepostory\\GenaricRepostry.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:08:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenaricRepostry.cs",
+              "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\IGenaricRepostry.cs",
+              "RelativeDocumentMoniker": "..\\DomianLayar\\contract\\IGenaricRepostry.cs",
+              "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\IGenaricRepostry.cs",
+              "RelativeToolTip": "..\\DomianLayar\\contract\\IGenaricRepostry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:06:57.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "BaseSpacfication.cs",
               "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Spacification\\BaseSpacfication.cs",
               "RelativeDocumentMoniker": "..\\ApplicationLayer\\Features\\Spacification\\BaseSpacfication.cs",
               "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\Features\\Spacification\\BaseSpacfication.cs",
               "RelativeToolTip": "..\\ApplicationLayer\\Features\\Spacification\\BaseSpacfication.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAswAoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBZwAsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T13:01:55.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationLayer",
+              "DocumentIndex": 30,
+              "Title": "ApplicationLayer.csproj",
               "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\ApplicationLayer.csproj",
               "RelativeDocumentMoniker": "..\\ApplicationLayer\\ApplicationLayer.csproj",
               "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\ApplicationLayer\\ApplicationLayer.csproj",
               "RelativeToolTip": "..\\ApplicationLayer\\ApplicationLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-18T13:01:48.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 26,
               "Title": "Ispacfiaction.cs",
               "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\Ispacfiaction.cs",
               "RelativeDocumentMoniker": "..\\DomianLayar\\contract\\Ispacfiaction.cs",
               "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\DomianLayar\\contract\\Ispacfiaction.cs",
               "RelativeToolTip": "..\\DomianLayar\\contract\\Ispacfiaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwA8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T13:01:47.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 38,
               "Title": "20250818112639_sas4110.cs",
               "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\InfrastructureLayer\\Migrations\\20250818112639_sas4110.cs",
               "RelativeDocumentMoniker": "..\\InfrastructureLayer\\Migrations\\20250818112639_sas4110.cs",
@@ -102,13 +687,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 29,
               "Title": "shora.csproj",
               "DocumentMoniker": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\shora.csproj",
               "RelativeDocumentMoniker": "shora.csproj",
               "ToolTip": "C:\\Users\\ABYUSIF\\source\\repos\\shora\\shora.csproj",
               "RelativeToolTip": "shora.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-18T11:26:27.886Z",
               "EditorCaption": ""
